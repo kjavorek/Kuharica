@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/Kuharica/resources/views/form.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/resources/views/myPhotos.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/app/Http/Controllers/IndexController.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/resources/views/auth/login.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/resources/views/imageShow.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/app/Http/Controllers/Auth/RegisterController.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/resources/views/desserts.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/config/auth.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/resources/views/soups.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/app/Http/Controllers/Auth/LoginController.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/resources/views/snacks.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/app/Http/Controllers/ImageShowController.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/app/Photos.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/resources/views/layouts/app.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/app/Http/Controllers/HomeController.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/resources/views/entrees.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/app/Http/Controllers/OtherController.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/resources/views/auth/register.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/app/Http/Controllers/AdminController.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/resources/views/other.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/app/Http/Controllers/DessertsController.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/app/Http/Controllers/SoupsController.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/config/session.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/resources/views/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/app/Http/Controllers/SnacksController.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/app/Http/Controllers/EntreesController.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/database/migrations/2014_10_12_000000_create_users_table.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/config/database.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/app/Http/Controllers/FormController.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/app/Http/Controllers/Controller.php</file>
+            <file>file:/C:/xampp/htdocs/Kuharica/public/css/style.css</file>
+        </group>
+    </open-files>
+</project-private>
